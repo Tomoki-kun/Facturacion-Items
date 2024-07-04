@@ -1,0 +1,13 @@
+D:\ProjectosVS\Repos\FacturacionItems\bin\Debug\FacturacionItems.exe.config
+D:\ProjectosVS\Repos\FacturacionItems\bin\Debug\FacturacionItems.exe
+D:\ProjectosVS\Repos\FacturacionItems\bin\Debug\FacturacionItems.pdb
+D:\ProjectosVS\Repos\FacturacionItems\obj\Debug\FacturacionItems.csproj.AssemblyReference.cache
+D:\ProjectosVS\Repos\FacturacionItems\obj\Debug\FacturacionItems.Excepcion.FAgregarItem.resources
+D:\ProjectosVS\Repos\FacturacionItems\obj\Debug\FacturacionItems.Excepcion.FFactura.resources
+D:\ProjectosVS\Repos\FacturacionItems\obj\Debug\FacturacionItems.Form1.resources
+D:\ProjectosVS\Repos\FacturacionItems\obj\Debug\FacturacionItems.Excepcion.FVerCarrito.resources
+D:\ProjectosVS\Repos\FacturacionItems\obj\Debug\FacturacionItems.Properties.Resources.resources
+D:\ProjectosVS\Repos\FacturacionItems\obj\Debug\FacturacionItems.csproj.GenerateResource.cache
+D:\ProjectosVS\Repos\FacturacionItems\obj\Debug\FacturacionItems.csproj.CoreCompileInputs.cache
+D:\ProjectosVS\Repos\FacturacionItems\obj\Debug\FacturacionItems.exe
+D:\ProjectosVS\Repos\FacturacionItems\obj\Debug\FacturacionItems.pdb
